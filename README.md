@@ -17,8 +17,8 @@ I've added comments throughout the code to explain the different sections of the
 
 ## <u>Deployment link</u> ##
 The project is now live on GitHub Pages and can be accessed without any specific requirements.
-<li>Git repository: <MARK>ADD LINK HERE!</MARK></li>
-<li>Tic-Tac-Toe Project: <MARK>ADD LINK HERE!</MARK></li>
+<li>Git repository: <MARK>https://kula90.github.io/TicTacToe/</MARK></li>
+<li>Tic-Tac-Toe Project: <MARK>https://github.com/Kula90/TicTacToe</MARK></li>
 
 ## <u>Installation</u> ##
 You don't need to install anything to play this game. All you need is a web browser that supports JavaScript and an internet connection.
