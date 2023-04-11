@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+  </style>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="Style.css">
+    <title>Tic-Tac-Toe</title>
+</head>
+
+<body>
+  
+    <h1>Tic⭕Tac❌Toe</h1>
+    <div id="message">❌'s turn</div>
+
+	  <div class="board">
+        <div class="row">
+          <div class="square"></div>
+          <div class="square"></div>
+          <div class="square"></div>
+        </div>
+      <div class="row">
+          <div class="square"></div>
+          <div class="square"></div>
+          <div class="square"></div>
+        </div>
+      <div class="row">
+          <div class="square"></div>
+          <div class="square"></div>
+          <div class="square"></div>
+        </div>
+    </div>
+      
+
+<div class="game-info">
+    
+      <div class="scoreboard">
+          <div id="player1-name">Player 1:</id><span id="player1-score">0</span></div>
+          <div id="player2-name">Player 2:</id><span id="player2-score">0</span></div>
+        </div>
+
+        <button id="switchPlayerButton">Switch to Computer Player</button>
+
+        <div id="playerState"> 
+          <strong>Human</strong> 
+        </div>
+
+        <button id="change-theme">Dark Mode</button>
+        <button id="restart">Restart Game</button>
+
+      </div>
+
+
+	<script src="script.js"></script>
+</body>
+</html>
